@@ -16,13 +16,7 @@
 
 ### 👥 **Segment 42K+ developers into actionable personas using Stack Overflow 2025 survey data** 📊
 
-### 🧠 Unsupervised ML × Real-World Data = **Strategic Developer Insights** 💼
-
----
-
-## 🎆 **NEW YEAR 2026 SPECIAL EDITION** 🎆
-
-> **"Start 2026 with data-driven developer insights! 🎉 This project showcases how unsupervised machine learning can transform raw survey data into actionable personas for hiring, marketing, and product strategy!"**
+### 🧠 Unsuper**"Start 2026 with data-driven developer insights! 🎉 This project showcases how unsupervised machine learning can transform raw survey data into actionable personas for hiring, marketing, and product strategy!"**
 
 ---
 
