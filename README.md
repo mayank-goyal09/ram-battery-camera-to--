@@ -230,3 +230,52 @@ graph LR
 The app will automatically open at: **`http://localhost:8501`**
 
 ---
+
+## 🎨 **UI SHOWCASE** 🎨
+
+### ✨ **Premium Dark Green Theme**
+
+```css
+/* Glassmorphism Design */
+background: linear-gradient(135deg, #0a1f0a 0%, #1a3a2a 50%, #0a1f0a 100%);
+backdrop-filter: blur(20px);
+border: 1px solid rgba(76, 175, 80, 0.3);
+box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
+```
+
+### **UI Features:**
+
+| **Component** | **Description** |
+|---------------|-----------------|
+| 🌙 **Dark Mode** | Easy on the eyes, premium feel |
+| ✨ **Neon Accents** | Vibrant green glowing elements |
+| 💎 **Glassmorphism** | Frosted glass card effects |
+| 🎚️ **Custom Sliders** | Beautiful neon track & thumb |
+| 📊 **Metric Cards** | Real-time spec display |
+| 📈 **Bar Charts** | Probability distribution |
+| 🔮 **Animations** | Smooth hover & fade effects |
+
+---
+
+## 📈 **MODEL PERFORMANCE** 📈
+
+### **Training Metrics:**
+
+| **Metric** | **Value** |
+|------------|-----------|
+| **Architecture** | MLP (Multi-Layer Perceptron) |
+| **Optimizer** | Adam |
+| **Loss Function** | Sparse Categorical Crossentropy |
+| **Epochs** | 100 |
+| **Batch Size** | 32 |
+
+### **Classification Results:**
+
+| **Class** | **Label** | **Price Range** |
+|-----------|-----------|-----------------|
+| 0 | 💚 Budget | ₹5,000 - ₹12,000 |
+| 1 | 💛 Mid-Range | ₹12,000 - ₹25,000 |
+| 2 | 🧡 Premium | ₹25,000 - ₹50,000 |
+| 3 | 💎 Flagship | ₹50,000+ |
+
+---
