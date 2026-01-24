@@ -12,3 +12,21 @@
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras">
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+</p>
+
+<p align="center">
+  <a href="https://ram-project.streamlit.app/">
+    <img src="https://img.shields.io/badge/🚀_LIVE_DEMO-Streamlit-4CAF50?style=for-the-badge&logoColor=white" alt="Live Demo">
+  </a>
+  <a href="https://github.com/mayank-goyal09">
+    <img src="https://img.shields.io/badge/GitHub-mayank--goyal09-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" alt="License">
+</p>
+
+<!-- Animated Banner GIF -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="600">
+</p>
+
+---
