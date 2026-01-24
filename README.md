@@ -279,3 +279,92 @@ box-shadow: 0 15px 40px rgba(0, 0, 0, 0.4);
 | 3 | 💎 Flagship | ₹50,000+ |
 
 ---
+
+## 📚 **SKILLS DEMONSTRATED** 📚
+
+- ✅ **Deep Learning** → ANN architecture design & training  
+- ✅ **Classification** → Multi-class categorical prediction  
+- ✅ **Feature Engineering** → Hardware spec analysis  
+- ✅ **Data Preprocessing** → StandardScaler normalization  
+- ✅ **TensorFlow/Keras** → Model building & saving  
+- ✅ **Streamlit** → Interactive web app development  
+- ✅ **Custom CSS** → Glassmorphism & animations  
+- ✅ **Python** → Pandas, NumPy, Scikit-learn  
+- ✅ **UX Design** → User-friendly interface  
+- ✅ **Deployment** → Production-ready Streamlit Cloud app  
+
+---
+
+## 🔮 **FUTURE ENHANCEMENTS** 🔮
+
+- [ ] 📱 Add **brand-specific** price prediction  
+- [ ] 📊 Implement **SHAP values** for explainability  
+- [ ] 🔄 Add **real-time market data** integration  
+- [ ] 📈 Create **price trend prediction** over time  
+- [ ] 🌐 Add **multi-currency** support  
+- [ ] 🤖 Integrate **LLM** for natural language queries  
+- [ ] 📷 Add **image-based** spec extraction  
+- [ ] 🔧 Implement **hyperparameter tuning** dashboard  
+
+---
+
+## 🤝 **CONTRIBUTING** 🤝
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="400">
+</p>
+
+Contributions are **always welcome**! 🎉
+
+1. 🍴 Fork the Project  
+2. 🌱 Create your Feature Branch (`git checkout -b feature/AmazingFeature`)  
+3. 💾 Commit your Changes (`git commit -m 'Add some AmazingFeature'`)  
+4. 📤 Push to the Branch (`git push origin feature/AmazingFeature`)  
+5. 🎁 Open a Pull Request  
+
+---
+
+## 📝 **LICENSE** 📝
+
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+---
+
+## 👨‍💻 **CONNECT WITH ME** 👨‍💻
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mayank-goyal-4b8756363/">
+    <img src="https://img.shields.io/badge/LinkedIn-Mayank_Goyal-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+  </a>
+  <a href="https://github.com/mayank-goyal09">
+    <img src="https://img.shields.io/badge/GitHub-mayank--goyal09-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://mayank-portfolio-site.streamlit.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Mayank_Goyal-4CAF50?style=for-the-badge&logo=streamlit" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Mayank Goyal</strong><br>
+  📊 Data Analyst | 🤖 ML Enthusiast | 🐍 Python Developer<br>
+  💼 Data Analyst Intern @ SpacECE Foundation India
+</p>
+
+---
+
+## ⭐ **SHOW YOUR SUPPORT** ⭐
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="300">
+</p>
+
+<p align="center">
+  Give a ⭐️ if you found this project helpful!<br>
+  <strong>Built with 🧠 Neural Networks & ❤️ by Mayank Goyal</strong>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=4CAF50&height=100&section=footer" width="100%"/>
+</p>
