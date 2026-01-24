@@ -168,6 +168,65 @@ streamlit run app.py
 
 ### **Step 4: Open in Browser** 🌐
 
+
+## 🎮 **HOW IT WORKS** 🎮
+
+```mermaid
+graph LR
+    A[📱 User Input] --> B[⚙️ Feature Extraction]
+    B --> C[📊 StandardScaler]
+    C --> D[🧠 ANN Model]
+    D --> E[📈 Softmax Probabilities]
+    E --> F[💰 Price Category]
+    F --> G[🎨 Streamlit UI]
+```
+
+### **Pipeline Breakdown:**
+
+1️⃣ **User Input** → Configure 20+ phone specifications via interactive sliders  
+2️⃣ **Feature Extraction** → Extract numerical features (RAM, Battery, Camera, etc.)  
+3️⃣ **Preprocessing** → StandardScaler normalizes features to zero mean  
+4️⃣ **Neural Network** → Multi-layer perceptron classifies into 4 categories  
+5️⃣ **Prediction** → Softmax layer outputs probability distribution  
+6️⃣ **Display** → Premium UI shows price range with confidence score  
+
+---
+
+## 📊 **DATASET & FEATURES** 📊
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="400">
+</p>
+
+### **Dataset Overview**
+
+| **Attribute** | **Value** |
+|---------------|-----------|
+| 📍 **Source** | Mobile Price Classification Dataset |
+| 📏 **Training Samples** | 2,000 smartphones |
+| 🎯 **Target Variable** | `price_range` (0, 1, 2, 3) |
+| 📊 **Features** | 20 hardware specifications |
+
+### **Feature Categories**
+
+| **Feature Type** | **Features** |
+|------------------|--------------|
+| 🔋 **Power** | `battery_power`, `talk_time` |
+| 💾 **Memory** | `ram`, `int_memory` |
+| ⚡ **Performance** | `n_cores`, `clock_speed` |
+| 📷 **Camera** | `pc` (primary), `fc` (front) |
+| 📺 **Display** | `px_height`, `px_width`, `sc_h`, `sc_w` |
+| 📏 **Physical** | `mobile_wt`, `m_dep` |
+| 📶 **Connectivity** | `blue`, `wifi`, `three_g`, `four_g`, `dual_sim`, `touch_screen` |
+
+### **Top Predictive Features** (Feature Importance)
+
+1. 🏆 **RAM** → Strongest predictor of price range  
+2. 🥈 **Battery Power** → Higher capacity = higher price  
+3. 🥉 **Pixel Resolution** → Display quality matters  
+
+---
+
 The app will automatically open at: **`http://localhost:8501`**
 
 ---
