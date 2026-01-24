@@ -124,3 +124,50 @@ An **AI-powered smartphone price prediction system** that uses a **Multi-Layer P
 ```
 
 ---
+
+## 📂 **PROJECT STRUCTURE** 📂
+
+```
+📱 smartphone-price-predictor/
+│
+├── 🎨 app.py                    # Streamlit web application
+├── 📓 main.ipynb                # EDA, training & model development
+├── 🧠 smartphone_price_ann.h5   # Trained ANN model (Keras)
+├── 📊 train.csv                 # Training dataset
+├── 📊 test.csv                  # Test dataset
+├── 📦 requirements.txt          # Dependencies
+└── 📖 README.md                 # You are here! 🎉
+```
+
+---
+
+## 🚀 **QUICK START** 🚀
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-705f7be0b224.gif" width="400">
+</p>
+
+### **Step 1: Clone the Repository** 📥
+
+```bash
+git clone https://github.com/mayank-goyal09/smartphone-price-predictor.git
+cd smartphone-price-predictor
+```
+
+### **Step 2: Install Dependencies** 📦
+
+```bash
+pip install -r requirements.txt
+```
+
+### **Step 3: Run the App** 🎯
+
+```bash
+streamlit run app.py
+```
+
+### **Step 4: Open in Browser** 🌐
+
+The app will automatically open at: **`http://localhost:8501`**
+
+---
