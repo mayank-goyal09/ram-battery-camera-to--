@@ -30,3 +30,43 @@
 </p>
 
 ---
+
+## 🌟 **WHAT IS THIS PROJECT?** 🌟
+
+<table>
+<tr>
+<td width="50%">
+
+### 🎯 **The Mission**
+
+An **AI-powered smartphone price prediction system** that uses a **Multi-Layer Perceptron (ANN)** to classify smartphones into **4 price categories** based on **20+ hardware specifications**.
+
+**Think of it as:**
+- 🧠 **Brain** = Artificial Neural Network (ANN)  
+- 📊 **Input** = Hardware specs (RAM, Battery, Camera, etc.)  
+- 💰 **Output** = Price range (Budget → Flagship)  
+
+</td>
+<td width="50%">
+
+### 🔥 **Key Features**
+
+✅ **4-Class Classification** → Budget, Mid-Range, Premium, Flagship  
+✅ **20+ Input Features** → Comprehensive hardware analysis  
+✅ **Real-time Predictions** → Instant price estimation  
+✅ **Premium Dark UI** → Stunning neon green glassmorphism theme  
+✅ **Interactive Sliders** → User-friendly configuration  
+✅ **Confidence Scores** → Probability distribution for each class  
+✅ **Mobile Responsive** → Works on all devices  
+
+**Price Categories:**
+- 💚 **Budget** → ₹5,000 - ₹12,000  
+- 💛 **Mid-Range** → ₹12,000 - ₹25,000  
+- 🧡 **Premium** → ₹25,000 - ₹50,000  
+- 💎 **Flagship** → ₹50,000+  
+
+</td>
+</tr>
+</table>
+
+---
